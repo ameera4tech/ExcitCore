@@ -1,0 +1,37 @@
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.deps.json
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.runtimeconfig.json
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.runtimeconfig.dev.json
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.dll
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.pdb
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csproj.CoreCompileInputs.cache
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorAssemblyInfo.cache
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorAssemblyInfo.cs
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.AssemblyInfoInputs.cache
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.AssemblyInfo.cs
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorTargetAssemblyInfo.cache
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.dll
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.pdb
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csprojAssemblyReference.cache
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.pdb
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csproj.CopyComplete
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.dll.config
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.dll.config
+D:\Ameer\Practice\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.dll.config
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csprojAssemblyReference.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.dll.config
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csproj.CoreCompileInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorAssemblyInfo.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorAssemblyInfo.cs
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.AssemblyInfoInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.AssemblyInfo.cs
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\EXCITCoreSample.dll.config
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\bin\Debug\netcoreapp2.1\excit.common.dll.config
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.RazorTargetAssemblyInfo.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.csproj.CopyComplete
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\EXCITCoreSample\obj\Debug\netcoreapp2.1\EXCITCoreSample.pdb

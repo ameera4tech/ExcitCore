@@ -1,0 +1,9 @@
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.deps.json
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.csproj.CoreCompileInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.AssemblyInfoInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.AssemblyInfo.cs
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\ASI.Contracts.Excit\obj\Debug\netcoreapp2.1\ASI.Contracts.Excit.csprojAssemblyReference.cache

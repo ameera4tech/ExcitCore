@@ -1,0 +1,25 @@
+D:\Ameer\Practice\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.deps.json
+D:\Ameer\Practice\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Practice\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.pdb
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csprojAssemblyReference.cache
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csproj.CoreCompileInputs.cache
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.AssemblyInfoInputs.cache
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.AssemblyInfo.cs
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.pdb
+D:\Ameer\Practice\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.dll.config
+D:\Ameer\Practice\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csproj.App.config
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.dll.config
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.deps.json
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\excit.common.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\bin\Debug\netcoreapp2.1\ASI.Contracts.Excit.pdb
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csproj.App.config
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csprojAssemblyReference.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csproj.CoreCompileInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.AssemblyInfoInputs.cache
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.AssemblyInfo.cs
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.csproj.CopyComplete
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.dll
+D:\Ameer\Projects & Data\EXCITCoreSample\excit.common\obj\Debug\netcoreapp2.1\excit.common.pdb
